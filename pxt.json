@@ -1,5 +1,6 @@
 {
     "name": "IMU_0419",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "pxt-samd21-zumo": "github:HuaichihChang/pxt-samd21-zumo#c1c14d8791a2642c975286c474414d64e2b9cf87"
